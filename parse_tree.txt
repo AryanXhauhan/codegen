@@ -1,0 +1,65 @@
+Parse Tree for: a = 10
+  10
+
+Parse Tree for: a = 29
+  29
+
+Parse Tree for: x = 90
+  90
+
+Parse Tree for: a = 90
+  90
+
+Parse Tree for: a = 90
+  90
+
+Parse Tree for: b = 40
+  40
+
+Parse Tree for: c = a+b
+  +
+    a
+    b
+
+Parse Tree for: a = 34
+  34
+
+Parse Tree for: b = 23
+  23
+
+Parse Tree for: c = 21
+  21
+
+Parse Tree for: c = a+b+c
+  +
+    +
+      a
+      b
+    c
+
+Parse Tree for: d = c+b
+  +
+    c
+    b
+
+Parse Tree for: a = 34
+  34
+
+Parse Tree for: b = 23
+  23
+
+Parse Tree for: c = 21
+  21
+
+Parse Tree for: c = a+b+c
+  +
+    +
+      a
+      b
+    c
+
+Parse Tree for: d = c+b
+  +
+    c
+    b
+

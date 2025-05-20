@@ -1,0 +1,9 @@
+### Final Optimized Intermediate Code (TAC)
+a = 34
+b = 23
+c = 21
+t0 = a + b
+t1 = t0 + c
+c = t1
+t2 = c + b
+d = t2
